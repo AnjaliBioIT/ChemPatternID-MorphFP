@@ -1,0 +1,25 @@
+Cluster ID | Size | Filename
+----------------------------------------
+        0 |    1 | ag_inactive_splits/clusters_part1_copy\cluster_0.smi
+        1 |    6 | ag_inactive_splits/clusters_part1_copy\cluster_1.smi
+        2 |    3 | ag_inactive_splits/clusters_part1_copy\cluster_2.smi
+        3 |    1 | ag_inactive_splits/clusters_part1_copy\cluster_3.smi
+        4 |    3 | ag_inactive_splits/clusters_part1_copy\cluster_4.smi
+        5 |    1 | ag_inactive_splits/clusters_part1_copy\cluster_5.smi
+        6 |    1 | ag_inactive_splits/clusters_part1_copy\cluster_6.smi
+        7 |    7 | ag_inactive_splits/clusters_part1_copy\cluster_7.smi
+        8 |    1 | ag_inactive_splits/clusters_part1_copy\cluster_8.smi
+        9 |    3 | ag_inactive_splits/clusters_part1_copy\cluster_9.smi
+       10 |    6 | ag_inactive_splits/clusters_part1_copy\cluster_10.smi
+       11 |    2 | ag_inactive_splits/clusters_part1_copy\cluster_11.smi
+       12 |    2 | ag_inactive_splits/clusters_part1_copy\cluster_12.smi
+       13 |    6 | ag_inactive_splits/clusters_part1_copy\cluster_13.smi
+       14 |    4 | ag_inactive_splits/clusters_part1_copy\cluster_14.smi
+       15 |    4 | ag_inactive_splits/clusters_part1_copy\cluster_15.smi
+       16 |    2 | ag_inactive_splits/clusters_part1_copy\cluster_16.smi
+       17 |    2 | ag_inactive_splits/clusters_part1_copy\cluster_17.smi
+       18 |    3 | ag_inactive_splits/clusters_part1_copy\cluster_18.smi
+       19 |    3 | ag_inactive_splits/clusters_part1_copy\cluster_19.smi
+       20 |    1 | ag_inactive_splits/clusters_part1_copy\cluster_20.smi
+       21 |    5 | ag_inactive_splits/clusters_part1_copy\cluster_21.smi
+       22 |    2 | ag_inactive_splits/clusters_part1_copy\cluster_22.smi

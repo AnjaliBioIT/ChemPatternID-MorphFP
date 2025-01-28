@@ -1,0 +1,7 @@
+O=C2CC(C[C@@H](O)[C@@H]1C[C@@H](C)C[C@H](C)C1=O)CC(=O)N2
+CS(C)=O
+O=C(OCC)C(C)Oc1ccc(cc1)Oc2nc3ccc(Cl)cc3o2
+FC(F)(F)C(OCF)C(F)(F)F
+Fc2ccc3OCC[C@]1(NC(=O)NC1=O)c3c2
+CC(C)c4nc(CN(C)C(=O)N[C@H](C(=O)N[C@@H](Cc1ccccc1)C[C@H](O)[C@H](Cc2ccccc2)NC(=O)OCc3cncs3)C(C)C)cs4
+O=C2CCCC(=O)C2C(=O)c1ccc(cc1[N+]([O-])=O)S(C)(=O)=O
